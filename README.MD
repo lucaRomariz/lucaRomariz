@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento d
 
 Estou em busca de me desenvolver com profissional na minha jornada de aprendizado.
 
-## 📫 Como me encontrar:
+##  Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/luca-romariz-532088365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
